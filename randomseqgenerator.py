@@ -1,3 +1,9 @@
+###################################################################
+##Richard Jansen, HAN University of Applied sciences, 14-03-2015###
+##Application to randomize FASTA formatted sequences.           ###
+##  OPEN FILE WINDOW MIGHT OPEN IN THE BACKGROUND!!!            ###
+###################################################################
+
 from tkinter import *
 from tkinter import filedialog
 import random
