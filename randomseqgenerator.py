@@ -11,7 +11,7 @@ startReading = False
 for regel in file:
     if startReading:
         raw_data += regel[10:]
-    if "ORIGIN" in regel:
+    if ">" in regel:
         startReading = True
 sequence = raw_data.replace(' ','').replace('\n','').replace('\r','')
 
