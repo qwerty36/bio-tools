@@ -1,0 +1,4 @@
+v0.01 18/03/15: Creation program, able to import, format and export file.
+v0.03 19/03/15: Creation logo, ability to change state of buttons to prevent misuse.
+v0.25 'Alpha' 19/03/15: Better safety features, improved GUI/feedback, sequence identity function
+v0.50 'Beta' 20/03/15: Improved GUI
